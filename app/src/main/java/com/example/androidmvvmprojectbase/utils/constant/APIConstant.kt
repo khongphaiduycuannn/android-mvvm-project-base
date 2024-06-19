@@ -7,6 +7,9 @@ object APIConstant {
     object EndPoint {
         const val DOG = "dog"
         const val DOG_BY_ID = "dog/{id}"
+
+        const val USER = "user"
+        const val USER_BY_ID = "user/{id}"
     }
 
     object TimeOut {
